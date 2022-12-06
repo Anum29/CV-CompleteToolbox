@@ -18,10 +18,9 @@ ICV_colored_histogram_plot(image, hist)
 
 ICV_histogram_intersection_helper(h1, h2)
 ICV_histogram_intersection(image1, image2)
-
 ```
 
-##Texture Classification 
+## Texture Classification 
 
 ```
 ICV_binatodeci(binary)
@@ -31,7 +30,6 @@ ICV_LBP_image_descriptor(img, window_size)
 ICV_classify_image(image, face_descriptor, non_face_descriptor)
 
 ```
-
 
 ## Object Counting
 ```
